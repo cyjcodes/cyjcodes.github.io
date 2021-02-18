@@ -402,6 +402,7 @@ header .side-nav .social-link {
 }
 
 .cover-social-link {
+    width: 100%;
     position: relative;
     top: 18vh;
     text-align: center;
