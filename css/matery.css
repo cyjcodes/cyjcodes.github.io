@@ -608,6 +608,7 @@ header .go-back i {
 .index-card {
     margin-top: -50px;
     padding-top: 20px;
+    display: none;
 }
 
 .carousel-post .title {
